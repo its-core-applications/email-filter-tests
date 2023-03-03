@@ -1,0 +1,18 @@
+{
+    "envelope_id": "DEADBEEF.BEBEEF.DEAD60FF.42069",
+    "body_inode": 12345678,
+    "expansion_level": 0,
+    "sender": "user@example.com",
+    "8bitmime": true,
+    "archive_only": false,
+    "jailed": false,
+    "bounceable": true,
+    "puntable": true,
+    "original_sender": "user@example.com",
+    "header_from": "user@example.com",
+    "subject": "Just a test message",
+    "message_id": "DEADDEAD@example.com",
+    "recipients": [
+        "postmaster@example.com"
+    ]
+}
